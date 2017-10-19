@@ -3,6 +3,6 @@ def add(x,y):
 def subtract(x,y):
     return x-y-z
 def multiply(x,y):
-    return x*y
+    return x*y*z
 def divide(x,y):
     return x/y/z
